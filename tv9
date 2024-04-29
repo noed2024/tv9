@@ -1,0 +1,118 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="DE PELICULA" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/de-pelicula.png" group-title="CINE Y SERIES",DE PELICULA
+http://nxt.plus:8080/jesus01/jesus01/43492
+#EXTINF:-1 tvg-id="DePeliculaMultiplex.mx" tvg-name="DE PELICULA+ HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/de-pelicula-plus-hd.png" group-title="CINE Y SERIES",DE PELICULA+ HD
+http://nxt.plus:8080/jesus01/jesus01/43494
+#EXTINF:-1 tvg-id="Cinecanal.sur" tvg-name="CINECANAL HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cinecanal-hd.png" group-title="CINE Y SERIES",CINECANAL HD
+http://nxt.plus:8080/jesus01/jesus01/2833
+#EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="AZ CINEMA HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/az-cinema.png" group-title="CINE Y SERIES",AZ CINEMA HD
+http://nxt.plus:8080/jesus01/jesus01/160510
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-hd.png" group-title="CINE Y SERIES",UNIVERSAL HD
+http://nxt.plus:8080/jesus01/jesus01/3271
+#EXTINF:-1 tvg-id="AR - Studio Universal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/studio-universal-hd.png" group-title="CINE Y SERIES",STUDIO UNIVERSAL HD
+http://nxt.plus:8080/jesus01/jesus01/9780
+#EXTINF:-1 tvg-id="SpacePanregional.us" tvg-name="SPACE HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/space-hd.png" group-title="CINE Y SERIES",SPACE HD
+http://nxt.plus:8080/jesus01/jesus01/16922
+#EXTINF:-1 tvg-id="TNTSeriesArgentina.ar" tvg-name="TNT SERIES HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt-series-hd.png" group-title="CINE Y SERIES",TNT SERIES HD
+http://nxt.plus:8080/jesus01/jesus01/16925
+#EXTINF:-1 tvg-id="TNTChile.cl" tvg-name="TNT HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt-hd.png" group-title="CINE Y SERIES",TNT HD
+http://nxt.plus:8080/jesus01/jesus01/25213
+#EXTINF:-1 tvg-id="TNTChile.cl" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt.png" group-title="CINE Y SERIES",TNT
+http://nxt.plus:8080/jesus01/jesus01/43568
+#EXTINF:-1 tvg-id="AMCSouth.us" tvg-name="AMC HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/amc.png" group-title="CINE Y SERIES",AMC HD
+http://nxt.plus:8080/jesus01/jesus01/24818
+#EXTINF:-1 tvg-id="AE.ar" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/ae.png" group-title="CINE Y SERIES",A&E
+http://nxt.plus:8080/jesus01/jesus01/43497
+#EXTINF:-1 tvg-id="HBOSignature.la" tvg-name="HBO SIGNATURE" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-signature.png" group-title="CINE Y SERIES",HBO SIGNATURE
+http://nxt.plus:8080/jesus01/jesus01/13894
+#EXTINF:-1 tvg-id="StarChannelChile.cl" tvg-name="STAR CHANNEL" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/star-channel.png" group-title="CINE Y SERIES",STAR CHANNEL
+http://nxt.plus:8080/jesus01/jesus01/59149
+#EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/paramount-channel.png" group-title="CINE Y SERIES",PARAMOUNT CHANNEL
+http://nxt.plus:8080/jesus01/jesus01/59144
+#EXTINF:-1 tvg-id="HBOXtreme" tvg-name="HBO XTREME" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-xtreme.png" group-title="CINE Y SERIES",HBO XTREME
+http://nxt.plus:8080/jesus01/jesus01/59123
+#EXTINF:-1 tvg-id="SyfyPanregional.us" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/syfy.png" group-title="CINE Y SERIES",SYFY
+http://nxt.plus:8080/jesus01/jesus01/59157
+#EXTINF:-1 tvg-id="Golden.cl" tvg-name="GOLDEN" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden.png" group-title="CINE Y SERIES",GOLDEN
+http://nxt.plus:8080/jesus01/jesus01/43534
+#EXTINF:-1 tvg-id="HBO2.ar" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-2.png" group-title="CINE Y SERIES",HBO 2
+http://nxt.plus:8080/jesus01/jesus01/43536
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO FAMILY" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-family.png" group-title="CINE Y SERIES",HBO FAMILY
+http://nxt.plus:8080/jesus01/jesus01/43537
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO+" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-plus.png" group-title="CINE Y SERIES",HBO+
+http://nxt.plus:8080/jesus01/jesus01/43538
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="SONY" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/sony.png" group-title="CINE Y SERIES",SONY
+http://nxt.plus:8080/jesus01/jesus01/43562
+#EXTINF:-1 tvg-id="AR - Studio Universal" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/studio-universal.png" group-title="CINE Y SERIES",STUDIO UNIVERSAL
+http://nxt.plus:8080/jesus01/jesus01/43564
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal.png" group-title="CINE Y SERIES",UNIVERSAL
+http://nxt.plus:8080/jesus01/jesus01/43577
+#EXTINF:-1 tvg-id="AR - Warner Channel" tvg-name="WARNER" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/warner-channel.png" group-title="CINE Y SERIES",WARNER
+http://nxt.plus:8080/jesus01/jesus01/43578
+#EXTINF:-1 tvg-id="TNTSeriesArgentina.ar" tvg-name="TNT SERIES" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt-series.png" group-title="CINE Y SERIES",TNT SERIES
+http://nxt.plus:8080/jesus01/jesus01/49314
+#EXTINF:-1 tvg-id="CinemaxPanregional.us" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cinemax.png" group-title="CINE Y SERIES",CINEMAX
+http://nxt.plus:8080/jesus01/jesus01/59083
+#EXTINF:-1 tvg-id="SpacePanregional.us" tvg-name="SPACE" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/space.png" group-title="CINE Y SERIES",SPACE
+http://nxt.plus:8080/jesus01/jesus01/59153
+#EXTINF:-1 tvg-id="" tvg-name="| CHAVO DEL 8" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| CHAVO DEL 8
+http://nxt.plus:8080/jesus01/jesus01/91926
+#EXTINF:-1 tvg-id="" tvg-name="| CHESPIRITO" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| CHESPIRITO
+http://nxt.plus:8080/jesus01/jesus01/91927
+#EXTINF:-1 tvg-id="" tvg-name="| CHAPULIN COLORADO" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",| CHAPULIN COLORADO
+http://nxt.plus:8080/jesus01/jesus01/91928
+#EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-name="CARACOL TV HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/colombia/caracol-tv-hd.png" group-title="COLOMBIA",CARACOL TV HD
+http://nxt.plus:8080/jesus01/jesus01/43506
+#EXTINF:-1 tvg-id="RCNTV.co" tvg-name="RCN HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/colombia/rcn-hd.png" group-title="COLOMBIA",RCN HD
+http://nxt.plus:8080/jesus01/jesus01/43555
+#EXTINF:-1 tvg-id="ESPN2Chile.cl" tvg-name="ESPN 1 | CL" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-cl.png" group-title="ESPN / FOX SPORTS",ESPN 1 | CO
+http://nxt.plus:8080/jesus01/jesus01/43527
+#EXTINF:-1 tvg-id="Win Sports" tvg-name="WIN SPORTS" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/win-sports.png" group-title="DEPORTES",WIN SPORTS
+http://nxt.plus:8080/jesus01/jesus01/43579
+#EXTINF:-1 tvg-id="Win Sports" tvg-name="WIN SPORTS HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/win-sports-hd.png" group-title="DEPORTES",WIN SPORTS HD
+http://nxt.plus:8080/jesus01/jesus01/1163
+#EXTINF:-1 tvg-id="Win Sports +" tvg-name="WIN SPORTS+" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/win-sports-plus.png" group-title="DEPORTES",WIN SPORTS+
+http://nxt.plus:8080/jesus01/jesus01/46973
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="EC | DSPORTS HD" tvg-logo="https://i.ibb.co/x6kxkLb/Screenshot-3.png" group-title="DSPORTS",EC | DSPORTS HD
+http://nxt.plus:8080/jesus01/jesus01/116425
+#EXTINF:-1 tvg-id="DirecTVSports2.us" tvg-name="CL | DSPORTS 2 HD" tvg-logo="https://i.ibb.co/x6kxkLb/Screenshot-3.png" group-title="DSPORTS",CL | DSPORTS 2 HD
+http://nxt.plus:8080/jesus01/jesus01/68829
+#EXTINF:-1 tvg-id="DirecTVSportsPlus.us" tvg-name="CL | DSPORTS+ HD" tvg-logo="https://i.ibb.co/x6kxkLb/Screenshot-3.png" group-title="DSPORTS",CL | DSPORTS+ HD
+http://nxt.plus:8080/jesus01/jesus01/68830
+#EXTINF:-1 tvg-id="ESPNExtra.uy" tvg-name="ESPN EXTRA HD | SUR" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-extra-sur-hd.png" group-title="ESPN / FOX SPORTS",ESPN EXTRA HD | SUR
+http://nxt.plus:8080/jesus01/jesus01/16915
+#EXTINF:-1 tvg-id="ESPN2.uy" tvg-name="ESPN 2 | SUR" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-sur.png" group-title="ESPN / FOX SPORTS",ESPN 2 | SUR
+http://nxt.plus:8080/jesus01/jesus01/767
+#EXTINF:-1 tvg-id="ESPN3.uy" tvg-name="ESPN 3 HD | SUR" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-3-sur-hd.png" group-title="ESPN / FOX SPORTS",ESPN 3 HD | SUR
+http://nxt.plus:8080/jesus01/jesus01/3267
+#EXTINF:-1 tvg-id="ESPN4.uy" tvg-name="ESPN 4 | SUR" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-4-sur.png" group-title="ESPN / FOX SPORTS",ESPN 4 | SUR
+http://nxt.plus:8080/jesus01/jesus01/763
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN 1 | CO" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-co.png" group-title="ESPN / FOX SPORTS",ESPN 1 | CL
+http://nxt.plus:8080/jesus01/jesus01/43528
+#EXTINF:-1 tvg-id="ESPN2Chile.cl" tvg-name="ESPN 1 HD | CL" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-cl-hd.png" group-title="ESPN / FOX SPORTS",ESPN 1 HD | CL
+http://nxt.plus:8080/jesus01/jesus01/58201
+#EXTINF:-1 tvg-id="ESPNChile.cl" tvg-name="ESPN 2 HD | CL" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-cl-hd.png" group-title="ESPN / FOX SPORTS",ESPN 2 HD | CL
+http://nxt.plus:8080/jesus01/jesus01/58202
+#EXTINF:-1 tvg-id="Cdf.Premium.cl" tvg-name="TNT SPORTS FHD (CL)" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-hd-cl.png" group-title="FUTBOL CHILENO",TNT SPORTS FHD (CL)
+http://nxt.plus:8080/jesus01/jesus01/53471
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="TNT SPORTS 2 (CL)" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-2-cl.png" group-title="FUTBOL CHILENO",TNT SPORTS 2 (CL)
+http://nxt.plus:8080/jesus01/jesus01/7
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="TNT SPORTS 3 (CL)" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-3-cl.png" group-title="FUTBOL CHILENO",TNT SPORTS 3 (CL)
+http://nxt.plus:8080/jesus01/jesus01/8
+#EXTINF:-1 tvg-id="ESPN.uy" tvg-name="ESPN HD | UY" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-uy-hd.png" group-title="ESPN / FOX SPORTS",ESPN HD | UY
+http://nxt.plus:8080/jesus01/jesus01/168572
+#EXTINF:-1 tvg-id="" tvg-name="UY | DSPORTS HD" tvg-logo="https://i.ibb.co/x6kxkLb/Screenshot-3.png" group-title="DSPORTS",UY | DSPORTS HD
+http://nxt.plus:8080/jesus01/jesus01/166706
+#EXTINF:-1 tvg-id="VTV + HD" tvg-name="VTV PLUS HD" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vtv-plus-uy.png" group-title="URUGUAY",VTV PLUS HD
+http://nxt.plus:8080/jesus01/jesus01/9797
+#EXTINF:-1 tvg-id="" tvg-name="PA | COS HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cable_onda_sports_pa_1.png" group-title="PANAMÁ",PA | COS HD
+http://nxt.plus:8080/jesus01/jesus01/177514
+#EXTINF:-1 tvg-id="" tvg-name="PA | COS FC" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cable-onda-sports-fc-pa.png" group-title="PANAMÁ",PA | COS FC
+http://nxt.plus:8080/jesus01/jesus01/177515
+#EXTINF:-1 tvg-id="FOXSports2.uy" tvg-name="FS 2 | SUR" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-2-sur.png" group-title="ESPN / FOX SPORTS",FS 2 | SUR
+http://nxt.plus:8080/jesus01/jesus01/761
+#EXTINF:-1 tvg-id="FOXSports2.uy" tvg-name="FS 2 HD | SUR" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-2-sur-hd.png" group-title="ESPN / FOX SPORTS",FS 2 HD | SUR
+http://nxt.plus:8080/jesus01/jesus01/13229
+#EXTINF:-1 tvg-id="FOXSports3.uy" tvg-name="FS 3 HD | SUR" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-3-sur-hd.png" group-title="ESPN / FOX SPORTS",FS 3 HD | SUR
+http://nxt.plus:8080/jesus01/jesus01/24405
