@@ -1,5 +1,20 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="" tvg-name="Los caballeros S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynNv862bKn4P8E4ZATUirwhxnBq.jpg" group-title="COMEDIA / FAMILIA",Los caballeros S01 E01
+https://nxt.plus:8443/series/jesus01/jesus01/220238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los caballeros S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vj0KzRkIzHDm2TfCrRuUQnHMAUz.jpg" group-title="COMEDIA / FAMILIA",Los caballeros S01 E02
+https://nxt.plus:8443/series/jesus01/jesus01/220239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los caballeros S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJRu0OOanHCgBeEZaEJS1NXDUyh.jpg" group-title="COMEDIA / FAMILIA",Los caballeros S01 E03
+https://nxt.plus:8443/series/jesus01/jesus01/220240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los caballeros S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hPZBdvS8GxNKdrbMd9FvSPERO9.jpg" group-title="COMEDIA / FAMILIA",Los caballeros S01 E04
+https://nxt.plus:8443/series/jesus01/jesus01/220241.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los caballeros S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t87zwmB0yAmmttU5M4SewRcXPC6.jpg" group-title="COMEDIA / FAMILIA",Los caballeros S01 E05
+https://nxt.plus:8443/series/jesus01/jesus01/220242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los caballeros S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52rlWIQ2kUDvegLTgjzgG4byq4f.jpg" group-title="COMEDIA / FAMILIA",Los caballeros S01 E06
+https://nxt.plus:8443/series/jesus01/jesus01/220243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los caballeros S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3pG4rT0a8AyuIP2k5KeKZoLmi1.jpg" group-title="COMEDIA / FAMILIA",Los caballeros S01 E07
+https://nxt.plus:8443/series/jesus01/jesus01/220244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los caballeros S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vv0hPoprno155h8u3JShvWmXYo7.jpg" group-title="COMEDIA / FAMILIA",Los caballeros S01 E08
+https://nxt.plus:8443/series/jesus01/jesus01/220245.mkv
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="DE PELICULA" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/de-pelicula.png" group-title="CINE Y SERIES",DE PELICULA
 http://nxt.plus:8080/jesus01/jesus01/43492
 #EXTINF:-1 tvg-id="DePeliculaMultiplex.mx" tvg-name="DE PELICULA+ HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/de-pelicula-plus-hd.png" group-title="CINE Y SERIES",DE PELICULA+ HD
