@@ -1,360 +1,394 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 tvg-id="" tvg-name="PE | DirecTV Sports PERU" tvg-logo="http://ceoapps.org/logos/directvsports1.png" group-title="TV | Deportes Sudamerica Premium",PE | DirecTV Sports PERU
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2154025
-#EXTINF:-1 tvg-id="" tvg-name="EC | DirecTV Sports ECU" tvg-logo="http://ceoapps.org/logos/directvsports1.png" group-title="TV | Deportes Sudamerica Premium",EC | DirecTV Sports ECU
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2154022
-#EXTINF:-1 tvg-id="" tvg-name="CO | Caracol COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="TV | Deportes Sudamerica Premium",CO | Caracol COLOMBIA
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2154028
-#EXTINF:-1 tvg-id="" tvg-name="AR | TYC Sports ARGENTINA" tvg-logo="http://ceoapps.org/logos/tycsports.png" group-title="TV | Deportes Sudamerica Premium",AR | TYC Sports ARGENTINA
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2154023
-#EXTINF:-1 tvg-id="" tvg-name="BR | GLOBO TV BRASIL" tvg-logo="http://ceoapps.org/logos/globotvbr.png" group-title="TV | Deportes Sudamerica Premium",BR | GLOBO TV BRASIL
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2154024
-#EXTINF:-1 tvg-id="" tvg-name="PE | Latina PERU" tvg-logo="http://ceoapps.org/logos/latinape.png" group-title="TV | Deportes Sudamerica Premium",PE | Latina PERU
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2154026
-#EXTINF:-1 tvg-id="" tvg-name="CL | Canal 13 CHILE" tvg-logo="http://ceoapps.org/logos/canal13cl.png" group-title="TV | Deportes Sudamerica Premium",CL | Canal 13 CHILE
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2154029
-#EXTINF:-1 tvg-id="" tvg-name="VE | TELEVEN VENEZUELA" tvg-logo="https://pbs.twimg.com/media/B3nOd8xIgAAY3_0.png" group-title="TV | Deportes Sudamerica Premium",VE | TELEVEN VENEZUELA
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2154030
-#EXTINF:-1 tvg-id="" tvg-name="EC | EL CANAL DEL FUTBOL" tvg-logo="https://www.xtrim.com.ec/images/xtr-vod-item-logo-ecdf.png" group-title="TV | Ecuador (Deportes)",EC | EL CANAL DEL FUTBOL
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2186976
-#EXTINF:-1 tvg-id="" tvg-name="PPV | La Casa de los Famosos CAM 1" tvg-logo="https://www.infobae.com/new-resizer/WqZR7yfPo7-IxDhq30LP34yvtG4=/1440x1080/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/YC7LXF2O3JC5XEDRENMDSITNWQ.jpg" group-title="TV | PPV La Casa de los Famosos",PPV | La Casa de los Famosos CAM 1
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2197243
-#EXTINF:-1 tvg-id="" tvg-name="PPV | La Casa de los Famosos CAM 2" tvg-logo="https://www.infobae.com/new-resizer/WqZR7yfPo7-IxDhq30LP34yvtG4=/1440x1080/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/YC7LXF2O3JC5XEDRENMDSITNWQ.jpg" group-title="TV | PPV La Casa de los Famosos",PPV | La Casa de los Famosos CAM 2
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2197244
-#EXTINF:-1 tvg-id="" tvg-name="Eurocopa 2024 | IZZI Channel 1 Opc 2 | MEX" tvg-logo="http://51.222.152.107:81/posters/1679725153472.png" group-title="TV| PPV  Eurocopa 2024",Eurocopa 2024 | IZZI Channel 1 Opc 2 | MEX
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2219407
-#EXTINF:-1 tvg-id="" tvg-name="Eurocopa 2024  | Tudn US Opc 1 | USA" tvg-logo="http://51.222.152.107:81/posters/1679725153472.png" group-title="TV| PPV  Eurocopa 2024",Eurocopa 2024  | Tudn US Opc 1 | USA
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2220050
-#EXTINF:-1 tvg-id="" tvg-name="Eurocopa 2024 | Espn | ARG" tvg-logo="http://51.222.152.107:81/posters/1679725153472.png" group-title="TV| PPV  Eurocopa 2024",Eurocopa 2024 | Espn | ARG
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2221032
-#EXTINF:-1 tvg-id="" tvg-name="Eurocopa 2024 | FOX | FS1 | USA" tvg-logo="http://51.222.152.107:81/posters/1679725153472.png" group-title="TV| PPV  Eurocopa 2024",Eurocopa 2024 | FOX | FS1 | USA
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2221033
-#EXTINF:-1 tvg-id="" tvg-name="Eurocopa 2024 | BBC America | USA" tvg-logo="http://51.222.152.107:81/posters/1679725153472.png" group-title="TV| PPV  Eurocopa 2024",Eurocopa 2024 | BBC America | USA
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2221034
-#EXTINF:-1 tvg-id="" tvg-name="Eurocopa 2024 | ESPN Opc 2 | ARG" tvg-logo="http://51.222.152.107:81/posters/1679725153472.png" group-title="TV| PPV  Eurocopa 2024",Eurocopa 2024 | ESPN Opc 2 | ARG
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2221035
-#EXTINF:-1 tvg-id="" tvg-name="Eurocopa 2024 | TUDN Opc 2 | USA" tvg-logo="http://51.222.152.107:81/posters/1679725153472.png" group-title="TV| PPV  Eurocopa 2024",Eurocopa 2024 | TUDN Opc 2 | USA
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2221036
-#EXTINF:-1 tvg-id="" tvg-name="Eurocopa 2024 | TUDN Opc 3 | USA" tvg-logo="http://51.222.152.107:81/posters/1679725153472.png" group-title="TV| PPV  Eurocopa 2024",Eurocopa 2024 | TUDN Opc 3 | USA
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2221055
-#EXTINF:-1 tvg-id="" tvg-name="Copa América | TUDN | USA" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="TV| PPV Copa America 2024",Copa América | TUDN | USA
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2221562
-#EXTINF:-1 tvg-id="" tvg-name="Copa América | Univisión | USA" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="TV| PPV Copa America 2024",Copa América | Univisión | USA
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2221564
-#EXTINF:-1 tvg-id="" tvg-name="Copa América | Tyc Sports | ARG" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="TV| PPV Copa America 2024",Copa América | Tyc Sports | ARG
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2221581
-#EXTINF:-1 tvg-id="" tvg-name="Copa América | FS1 | USA" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="TV| PPV Copa America 2024",Copa América | FS1 | USA
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2221582
-#EXTINF:-1 tvg-id="" tvg-name="Copa América | Canal 5 | MEX" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="TV| PPV Copa America 2024",Copa América | Canal 5 | MEX
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2221592
-#EXTINF:-1 tvg-id="" tvg-name="Copa América | Azteca 7 | MEX" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="TV| PPV Copa America 2024",Copa América | Azteca 7 | MEX
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2221593
-#EXTINF:-1 tvg-id="" tvg-name="Copa América | Unimas NY | USA" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="TV| PPV Copa America 2024",Copa América | Unimas NY | USA
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2222150
-#EXTINF:-1 tvg-id="" tvg-name="Copa América | TSN 4 | USA" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="TV| PPV Copa America 2024",Copa América | TSN 4 | USA
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2222151
-#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1  | 06/Jul | 04:30 | British Grand Prix Final Practice | Fox Sports" tvg-logo="http://51.222.152.107:81/posters/1648274851414.png" group-title="TV | PPV Formula 1",Fórmula 1  | 06/Jul | 04:30 | British Grand Prix Final Practice | Fox Sports
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223408
-#EXTINF:-1 tvg-id="" tvg-name="Tennis | 06/Jul | 05:00 | Wimbledon" tvg-logo="http://51.222.152.107:81/posters/1632664836362.jpg" group-title="TV | PPV Tenis",Tennis | 06/Jul | 05:00 | Wimbledon
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223409
-#EXTINF:-1 tvg-id="" tvg-name="DP World Tour Golf | 06/Jul | 05:30 | BMW International Open" tvg-logo="http://51.222.152.107:81/posters/1648299881324.jpeg" group-title="TV | EVENTOS",DP World Tour Golf | 06/Jul | 05:30 | BMW International Open
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223410
-#EXTINF:-1 tvg-id="" tvg-name="Ciclismo | 06/Jul | 06:00 | 2024 Tour de France" tvg-logo="http://51.222.152.107:81/posters/1630619970148.jpg" group-title="TV | EVENTOS",Ciclismo | 06/Jul | 06:00 | 2024 Tour de France
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223411
-#EXTINF:-1 tvg-id="" tvg-name="NASCAR Xfinity Racing Series | 06/Jul | 08:00 | The Loop 110" tvg-logo="http://51.222.152.107:81/posters/1628342135292.png" group-title="TV | EVENTOS",NASCAR Xfinity Racing Series | 06/Jul | 08:00 | The Loop 110
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223412
-#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1  | 06/Jul | 08:00 | British Grand Prix Calificación" tvg-logo="http://51.222.152.107:81/posters/1648274851414.png" group-title="TV | PPV Formula 1",Fórmula 1  | 06/Jul | 08:00 | British Grand Prix Calificación
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223413
-#EXTINF:-1 tvg-id="" tvg-name="Rugby Super League | 06/Jul | 08:00 | London Broncos VS Leeds Rhinos" tvg-logo="http://51.222.152.107:81/posters/1628332232384.png" group-title="TV | EVENTOS",Rugby Super League | 06/Jul | 08:00 | London Broncos VS Leeds Rhinos
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223414
-#EXTINF:-1 tvg-id="" tvg-name="Eurocopa 2024 | 06/Jul | 10:00 | Inglaterra vs Suiza | Canal 5" tvg-logo="http://51.222.152.107:81/posters/1679725153472.png" group-title="TV| PPV  Eurocopa 2024",Eurocopa 2024 | 06/Jul | 10:00 | Inglaterra vs Suiza | Canal 5
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223415
-#EXTINF:-1 tvg-id="" tvg-name="Eurocopa 2024 | 06/Jul | 10:00 | Inglaterra vs Suiza | Fox" tvg-logo="http://51.222.152.107:81/posters/1679725153472.png" group-title="TV| PPV  Eurocopa 2024",Eurocopa 2024 | 06/Jul | 10:00 | Inglaterra vs Suiza | Fox
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223416
-#EXTINF:-1 tvg-id="" tvg-name="Eurocopa 2024 | 06/Jul | 10:00 | Inglaterra vs Suiza | TUDN USA" tvg-logo="http://51.222.152.107:81/posters/1679725153472.png" group-title="TV| PPV  Eurocopa 2024",Eurocopa 2024 | 06/Jul | 10:00 | Inglaterra vs Suiza | TUDN USA
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223417
-#EXTINF:-1 tvg-id="" tvg-name="Eurocopa 2024 | 06/Jul | 10:00 | Inglaterra vs Suiza | Univisión" tvg-logo="http://51.222.152.107:81/posters/1679725153472.png" group-title="TV| PPV  Eurocopa 2024",Eurocopa 2024 | 06/Jul | 10:00 | Inglaterra vs Suiza | Univisión
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223418
-#EXTINF:-1 tvg-id="" tvg-name="NASCAR Cup Series | 06/Jul | 10:30 | Grant Park 165" tvg-logo="http://51.222.152.107:81/posters/1629658067387.png" group-title="TV | EVENTOS",NASCAR Cup Series | 06/Jul | 10:30 | Grant Park 165
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223419
-#EXTINF:-1 tvg-id="" tvg-name="Rugby Super League | 06/Jul | 10:30 | Catalans Dragons VS Hull Kingston Rovers" tvg-logo="http://51.222.152.107:81/posters/1628332232384.png" group-title="TV | EVENTOS",Rugby Super League | 06/Jul | 10:30 | Catalans Dragons VS Hull Kingston Rovers
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223420
-#EXTINF:-1 tvg-id="" tvg-name="Carrera De Caballos | 06/Jul | 10:30 | Americas Day at the Races" tvg-logo="http://51.222.152.107:81/posters/1628682312541.png" group-title="TV | EVENTOS",Carrera De Caballos | 06/Jul | 10:30 | Americas Day at the Races
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223421
-#EXTINF:-1 tvg-id="" tvg-name="NWSL Soccer | 06/Jul | 11:00 | Chicago Red Stars vs Houston Dash" tvg-logo="http://51.222.152.107:81/posters/1629658026509.jpg" group-title="TV | EVENTOS",NWSL Soccer | 06/Jul | 11:00 | Chicago Red Stars vs Houston Dash
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223422
-#EXTINF:-1 tvg-id="" tvg-name="WNBA Basketball | 06/Jul | 11:00 | New York Liberty VS Indiana Fever" tvg-logo="http://51.222.152.107:81/posters/1684611120271.png" group-title="TV | EVENTOS",WNBA Basketball | 06/Jul | 11:00 | New York Liberty VS Indiana Fever
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223423
-#EXTINF:-1 tvg-id="" tvg-name="PGA Tour Golf | 06/Jul | 11:00 | John Deere Classic" tvg-logo="http://51.222.152.107:81/posters/1648912201321.png" group-title="TV | EVENTOS",PGA Tour Golf | 06/Jul | 11:00 | John Deere Classic
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223424
-#EXTINF:-1 tvg-id="" tvg-name="Canadian Premier League | 06/Jul | 12:00 | York United vs HFX Wanderers" tvg-logo="http://51.222.152.107:81/posters/1627682834357.png" group-title="TV | EVENTOS",Canadian Premier League | 06/Jul | 12:00 | York United vs HFX Wanderers
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223425
-#EXTINF:-1 tvg-id="" tvg-name="Primera B Argentina | 06/Jul | 12:05 | Almagro vs Temperley" tvg-logo="http://51.222.152.107:81/posters/1636604782454.png" group-title="TV | EVENTOS",Primera B Argentina | 06/Jul | 12:05 | Almagro vs Temperley
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223426
-#EXTINF:-1 tvg-id="" tvg-name="Eurocopa 2024 | 06/Jul | 13:00 | Países Bajos vs Turquía | Canal 5" tvg-logo="http://51.222.152.107:81/posters/1679725153472.png" group-title="TV| PPV  Eurocopa 2024",Eurocopa 2024 | 06/Jul | 13:00 | Países Bajos vs Turquía | Canal 5
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223427
-#EXTINF:-1 tvg-id="" tvg-name="Eurocopa 2024 | 06/Jul | 13:00 | Países Bajos vs Turquía | ESPN" tvg-logo="http://51.222.152.107:81/posters/1679725153472.png" group-title="TV| PPV  Eurocopa 2024",Eurocopa 2024 | 06/Jul | 13:00 | Países Bajos vs Turquía | ESPN
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223428
-#EXTINF:-1 tvg-id="" tvg-name="Eurocopa 2024 | 06/Jul | 13:00 | Países Bajos vs Turquía | FOX" tvg-logo="http://51.222.152.107:81/posters/1679725153472.png" group-title="TV| PPV  Eurocopa 2024",Eurocopa 2024 | 06/Jul | 13:00 | Países Bajos vs Turquía | FOX
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223429
-#EXTINF:-1 tvg-id="" tvg-name="Carrera De Caballos | 06/Jul | 13:00 | Americas Day at the Races" tvg-logo="http://51.222.152.107:81/posters/1628682312541.png" group-title="TV | EVENTOS",Carrera De Caballos | 06/Jul | 13:00 | Americas Day at the Races
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223430
-#EXTINF:-1 tvg-id="" tvg-name="Copa América  | 06/Jul | 14:00 | Uruguay vs Brasil | FS1" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="TV| PPV Copa America 2024",Copa América  | 06/Jul | 14:00 | Uruguay vs Brasil | FS1
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223431
-#EXTINF:-1 tvg-id="" tvg-name="Copa América  | 06/Jul | 14:00 | Uruguay vs Brasil | Univisión" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="TV| PPV Copa America 2024",Copa América  | 06/Jul | 14:00 | Uruguay vs Brasil | Univisión
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223432
-#EXTINF:-1 tvg-id="" tvg-name="Minor League Baseball | 06/Jul | 14:05 | Syracuse Mets VS Worcester" tvg-logo="http://51.222.152.107:81/posters/1628343843149.png" group-title="TV | EVENTOS",Minor League Baseball | 06/Jul | 14:05 | Syracuse Mets VS Worcester
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223433
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 06/Jul | 14:30 | Los Angeles Lakers VS Sacramento Kings | ESPN" tvg-logo="http://51.222.152.107:81/posters/1715747988307.png" group-title="TV | PPV NBA",NBA | 06/Jul | 14:30 | Los Angeles Lakers VS Sacramento Kings | ESPN
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223434
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 06/Jul | 14:30 | Los Angeles Lakers VS Sacramento Kings | ESPN Deportes" tvg-logo="http://51.222.152.107:81/posters/1715747988307.png" group-title="TV | PPV NBA",NBA | 06/Jul | 14:30 | Los Angeles Lakers VS Sacramento Kings | ESPN Deportes
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223435
-#EXTINF:-1 tvg-id="" tvg-name="Copa América  | 06/Jul | 16:00 | Colombia vs Panamá | TUDN" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="TV| PPV Copa America 2024",Copa América  | 06/Jul | 16:00 | Colombia vs Panamá | TUDN
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223436
-#EXTINF:-1 tvg-id="" tvg-name="Copa América  | 06/Jul | 16:00 | Colombia vs Panamá | Canal 5" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="TV| PPV Copa America 2024",Copa América  | 06/Jul | 16:00 | Colombia vs Panamá | Canal 5
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223437
-#EXTINF:-1 tvg-id="" tvg-name="Copa América  | 06/Jul | 16:00 | Colombia vs Panamá | Azteca 7" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="TV| PPV Copa America 2024",Copa América  | 06/Jul | 16:00 | Colombia vs Panamá | Azteca 7
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223438
-#EXTINF:-1 tvg-id="" tvg-name="Copa América  | 06/Jul | 16:00 | Colombia vs Panamá | FS1" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="TV| PPV Copa America 2024",Copa América  | 06/Jul | 16:00 | Colombia vs Panamá | FS1
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223439
-#EXTINF:-1 tvg-id="" tvg-name="Copa América  | 06/Jul | 16:00 | Colombia vs Panamá | TUDN USA" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="TV| PPV Copa America 2024",Copa América  | 06/Jul | 16:00 | Colombia vs Panamá | TUDN USA
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223440
-#EXTINF:-1 tvg-id="" tvg-name="Copa América  | 06/Jul | 16:00 | Colombia vs Panamá | Univisión" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="TV| PPV Copa America 2024",Copa América  | 06/Jul | 16:00 | Colombia vs Panamá | Univisión
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223441
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 06/Jul | 16:30 | Miami Heat VS Golden State Warriors | ESPN" tvg-logo="http://51.222.152.107:81/posters/1715747988307.png" group-title="TV | PPV NBA",NBA | 06/Jul | 16:30 | Miami Heat VS Golden State Warriors | ESPN
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223442
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 06/Jul | 16:30 | Miami Heat VS Golden State Warriors | ESPN Deportes" tvg-logo="http://51.222.152.107:81/posters/1715747988307.png" group-title="TV | PPV NBA",NBA | 06/Jul | 16:30 | Miami Heat VS Golden State Warriors | ESPN Deportes
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223443
-#EXTINF:-1 tvg-id="" tvg-name="Liga MX  | 06/Jul | 17:00 | Atlético San Luis vs América | ESPN" tvg-logo="http://51.222.152.107:81/posters/1627681303172.png" group-title="TV | PPV LIGA MX",Liga MX  | 06/Jul | 17:00 | Atlético San Luis vs América | ESPN
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223444
-#EXTINF:-1 tvg-id="" tvg-name="Liga MX  | 06/Jul | 17:00 | Atlético San Luis vs América | ESPN | Opción 2" tvg-logo="http://51.222.152.107:81/posters/1627681303172.png" group-title="TV | PPV LIGA MX",Liga MX  | 06/Jul | 17:00 | Atlético San Luis vs América | ESPN | Opción 2
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223445
-#EXTINF:-1 tvg-id="" tvg-name="CFL Football | 06/Jul | 17:00 | Calgary Stampeders VS Montreal Alouettes" tvg-logo="http://51.222.152.107:81/posters/1628136007485.png" group-title="TV | EVENTOS",CFL Football | 06/Jul | 17:00 | Calgary Stampeders VS Montreal Alouettes
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223446
-#EXTINF:-1 tvg-id="" tvg-name="Premier Lacrosse League | 06/Jul | 17:00 | Philadelphia Waterdogs vs. Boston Cannons" tvg-logo="http://51.222.152.107:81/posters/1628897389387.png" group-title="TV | EVENTOS",Premier Lacrosse League | 06/Jul | 17:00 | Philadelphia Waterdogs vs. Boston Cannons
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223447
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 06/Jul | 18:30 | Charlotte Hornets VS San Antonio Spurs" tvg-logo="http://51.222.152.107:81/posters/1715747988307.png" group-title="TV | PPV NBA",NBA | 06/Jul | 18:30 | Charlotte Hornets VS San Antonio Spurs
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223448
-#EXTINF:-1 tvg-id="" tvg-name="Box | 06/Jul | 18:30 | Artem Harutyunyan vs Shakur Stevenson | ESPN" tvg-logo="http://51.222.152.107:81/posters/1636787110557.jpg" group-title="TV | PPV UFC | BOX",Box | 06/Jul | 18:30 | Artem Harutyunyan vs Shakur Stevenson | ESPN
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223449
-#EXTINF:-1 tvg-id="" tvg-name="Box | 06/Jul | 18:30 | Artem Harutyunyan vs Shakur Stevenson | ESPN Deportes" tvg-logo="http://51.222.152.107:81/posters/1636787110557.jpg" group-title="TV | PPV UFC | BOX",Box | 06/Jul | 18:30 | Artem Harutyunyan vs Shakur Stevenson | ESPN Deportes
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223450
-#EXTINF:-1 tvg-id="" tvg-name="Copa América  | 06/Jul | 19:00 | Uruguay vs Brasil | TUDN" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="TV| PPV Copa America 2024",Copa América  | 06/Jul | 19:00 | Uruguay vs Brasil | TUDN
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223451
-#EXTINF:-1 tvg-id="" tvg-name="Copa América  | 06/Jul | 19:00 | Uruguay vs Brasil | Canal 5" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="TV| PPV Copa America 2024",Copa América  | 06/Jul | 19:00 | Uruguay vs Brasil | Canal 5
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223452
-#EXTINF:-1 tvg-id="" tvg-name="Copa América  | 06/Jul | 19:00 | Uruguay vs Brasil | Azteca 7" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="TV| PPV Copa America 2024",Copa América  | 06/Jul | 19:00 | Uruguay vs Brasil | Azteca 7
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223453
-#EXTINF:-1 tvg-id="" tvg-name="Copa América  | 06/Jul | 19:00 | Uruguay vs Brasil | TUDN USA" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="TV| PPV Copa America 2024",Copa América  | 06/Jul | 19:00 | Uruguay vs Brasil | TUDN USA
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223454
-#EXTINF:-1 tvg-id="" tvg-name="Liga MX  | 06/Jul | 19:00 | Tigres UANL vs Necaxa | Azteca 7" tvg-logo="http://51.222.152.107:81/posters/1627681303172.png" group-title="TV | PPV LIGA MX",Liga MX  | 06/Jul | 19:00 | Tigres UANL vs Necaxa | Azteca 7
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223455
-#EXTINF:-1 tvg-id="" tvg-name="Liga MX  | 06/Jul | 19:00 | Tigres UANL vs Necaxa | Fox Deportes" tvg-logo="http://51.222.152.107:81/posters/1627681303172.png" group-title="TV | PPV LIGA MX",Liga MX  | 06/Jul | 19:00 | Tigres UANL vs Necaxa | Fox Deportes
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223456
-#EXTINF:-1 tvg-id="" tvg-name="Liga MX  | 06/Jul | 19:00 | Tigres UANL vs Necaxa | Azteca 7 | Opción 2" tvg-logo="http://51.222.152.107:81/posters/1627681303172.png" group-title="TV | PPV LIGA MX",Liga MX  | 06/Jul | 19:00 | Tigres UANL vs Necaxa | Azteca 7 | Opción 2
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223457
-#EXTINF:-1 tvg-id="" tvg-name="Liga MX  | 06/Jul | 19:00 | Guadalajara vs Toluca | Telemundo" tvg-logo="http://51.222.152.107:81/posters/1627681303172.png" group-title="TV | PPV LIGA MX",Liga MX  | 06/Jul | 19:00 | Guadalajara vs Toluca | Telemundo
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223458
-#EXTINF:-1 tvg-id="" tvg-name="Liga MX  | 06/Jul | 19:00 | Guadalajara vs Toluca | Universo" tvg-logo="http://51.222.152.107:81/posters/1627681303172.png" group-title="TV | PPV LIGA MX",Liga MX  | 06/Jul | 19:00 | Guadalajara vs Toluca | Universo
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223459
-#EXTINF:-1 tvg-id="" tvg-name="Pickleball | 06/Jul | 19:00 | Newport Beach Open" tvg-logo="http://51.222.152.107:81/posters/1631462775472.png" group-title="TV | EVENTOS",Pickleball | 06/Jul | 19:00 | Newport Beach Open
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223460
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship Soccer | 06/Jul | 20:00 | Orange County SC vs Memphis 901" tvg-logo="http://51.222.152.107:81/posters/1638091570540.png" group-title="TV | PPV USL",USL Championship Soccer | 06/Jul | 20:00 | Orange County SC vs Memphis 901
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223461
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 06/Jul | 20:30 | China VS Sacramento Kings" tvg-logo="http://51.222.152.107:81/posters/1715747988307.png" group-title="TV | PPV NBA",NBA | 06/Jul | 20:30 | China VS Sacramento Kings
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223462
-#EXTINF:-1 tvg-id="" tvg-name="Liga MX  | 06/Jul | 21:00 | Cruz Azul vs Mazatlán | TUDN" tvg-logo="http://51.222.152.107:81/posters/1627681303172.png" group-title="TV | PPV LIGA MX",Liga MX  | 06/Jul | 21:00 | Cruz Azul vs Mazatlán | TUDN
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223463
-#EXTINF:-1 tvg-id="" tvg-name="Liga MX  | 06/Jul | 21:00 | Cruz Azul vs Mazatlán | TUDN | Opción 2" tvg-logo="http://51.222.152.107:81/posters/1627681303172.png" group-title="TV | PPV LIGA MX",Liga MX  | 06/Jul | 21:00 | Cruz Azul vs Mazatlán | TUDN | Opción 2
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223464
-#EXTINF:-1 tvg-id="" tvg-name="AFL Premiership Football | 06/Jul | 21:10 | West Coast Eagles VS Melbourne Demons" tvg-logo="http://51.222.152.107:81/posters/1627682387168.jpg" group-title="TV | EVENTOS",AFL Premiership Football | 06/Jul | 21:10 | West Coast Eagles VS Melbourne Demons
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223465
-#EXTINF:-1 tvg-id="" tvg-name="AFL Premiership Football | 06/Jul | 23:20 | Sydney Swans VS St. Kilda Saints" tvg-logo="http://51.222.152.107:81/posters/1627682387168.jpg" group-title="TV | EVENTOS",AFL Premiership Football | 06/Jul | 23:20 | Sydney Swans VS St. Kilda Saints
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223466
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA vs PANAMA 4:00PM | URUGUAY vs BRASIL 7:00PM | TUDN MX" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="TV| PPV Copa America 2024",COLOMBIA vs PANAMA 4:00PM | URUGUAY vs BRASIL 7:00PM | TUDN MX
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223467
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA vs PANAMA 4:00PM | TIGRES vs NECAXA 7:00PM | Azteca 7" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="TV | EVENTOS",COLOMBIA vs PANAMA 4:00PM | TIGRES vs NECAXA 7:00PM | Azteca 7
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223468
-#EXTINF:-1 tvg-id="" tvg-name="SAN LUIS vs AMERICA | 5:00PM |   | ESPN HD" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="TV | EVENTOS",SAN LUIS vs AMERICA | 5:00PM |   | ESPN HD
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223469
-#EXTINF:-1 tvg-id="" tvg-name="TIGRES vs NECAXA | 7:00PM | Fox Deportes HD" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="TV | EVENTOS",TIGRES vs NECAXA | 7:00PM | Fox Deportes HD
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223470
-#EXTINF:-1 tvg-id="" tvg-name="CHIVAS vs TOLUCA | 7:00PM | Telemundo 47 NY" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="TV | EVENTOS",CHIVAS vs TOLUCA | 7:00PM | Telemundo 47 NY
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223471
-#EXTINF:-1 tvg-id="" tvg-name="JUAREZ vs ATLAS 9:10PM | Fox Sports" tvg-logo="http://panel.maxmax.live/png/sports/ligamx.png" group-title="TV | PPV LIGA MX",JUAREZ vs ATLAS 9:10PM | Fox Sports
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223472
-#EXTINF:-1 tvg-id="" tvg-name="INGLATERRA vs SUIZA 10:00AM | HOLANDA vs TURQUIA 1:00PM | TSN 4" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="TV| PPV  Eurocopa 2024",INGLATERRA vs SUIZA 10:00AM | HOLANDA vs TURQUIA 1:00PM | TSN 4
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223474
-#EXTINF:-1 tvg-id="" tvg-name="Tennis | Dia 6 | de 4:00AM a 3:00PM | TSN 3" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="TV | PPV Tenis",Tennis | Dia 6 | de 4:00AM a 3:00PM | TSN 3
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223475
-#EXTINF:-1 tvg-id="" tvg-name="Tennis | Dia 6 | de 4:00AM a 3:00PM | TSN 5" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="TV | PPV Tenis",Tennis | Dia 6 | de 4:00AM a 3:00PM | TSN 5
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223476
-#EXTINF:-1 tvg-id="" tvg-name="Atlanta Dream @ Dallas Wings | 5:30PM | WNBA Pass" tvg-logo="http://panel.maxmax.live/png/sports/nba.png" group-title="TV | PPV NBA",Atlanta Dream @ Dallas Wings | 5:30PM | WNBA Pass
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223477
-#EXTINF:-1 tvg-id="" tvg-name="Las Vegas Aces @ LA Sparks| 8:00PM | WNBA Pass" tvg-logo="http://panel.maxmax.live/png/sports/nba.png" group-title="TV | PPV NBA",Las Vegas Aces @ LA Sparks| 8:00PM | WNBA Pass
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223478
-#EXTINF:-1 tvg-id="" tvg-name="POSPUESTO |Pericos Puebla en Piratas Campeche | 7:30PM | TRC Campeche" tvg-logo="http://panel.maxmax.live/png/sports/lmb.png" group-title="TV | PPV LMB 2024",POSPUESTO |Pericos Puebla en Piratas Campeche | 7:30PM | TRC Campeche
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223479
-#EXTINF:-1 tvg-id="" tvg-name="Tecolotes Laredos en Caliente Durango | 8:00PM | WWB" tvg-logo="http://panel.maxmax.live/png/sports/lmb.png" group-title="TV | PPV LMB 2024",Tecolotes Laredos en Caliente Durango | 8:00PM | WWB
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223480
-#EXTINF:-1 tvg-id="" tvg-name="Bravos Leon en Aguila Veracruz | 8:00PM | Canal 4.3 Leon" tvg-logo="http://panel.maxmax.live/png/sports/lmb.png" group-title="TV | PPV LMB 2024",Bravos Leon en Aguila Veracruz | 8:00PM | Canal 4.3 Leon
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223481
-#EXTINF:-1 tvg-id="" tvg-name="Bravos Leon en Aguila Veracruz | 8:00PM | Latin America Sport" tvg-logo="http://panel.maxmax.live/png/sports/lmb.png" group-title="TV | PPV LMB 2024",Bravos Leon en Aguila Veracruz | 8:00PM | Latin America Sport
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223482
-#EXTINF:-1 tvg-id="" tvg-name="Saraperos Saltillo en Acereros Monclova | 8:05PM | Fox Premium" tvg-logo="http://panel.maxmax.live/png/sports/lmb.png" group-title="TV | PPV LMB 2024",Saraperos Saltillo en Acereros Monclova | 8:05PM | Fox Premium
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223483
-#EXTINF:-1 tvg-id="" tvg-name="Algodoneros Laguna en Toros Tijuana | 8:35PM | Multimedios" tvg-logo="http://panel.maxmax.live/png/sports/lmb.png" group-title="TV | PPV LMB 2024",Algodoneros Laguna en Toros Tijuana | 8:35PM | Multimedios
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223484
-#EXTINF:-1 tvg-id="" tvg-name="ITV Sports MX" tvg-logo="http://panel.maxmax.live/png/sports/lmb.png" group-title="TV | PPV LMB 2024",ITV Sports MX
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223485
-#EXTINF:-1 tvg-id="" tvg-name="ANGELS @ CUBS | 12:20PM | Marquee Sports" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",ANGELS @ CUBS | 12:20PM | Marquee Sports
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223486
-#EXTINF:-1 tvg-id="" tvg-name="ANGELS @ CUBS | 12:20PM | BS West" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",ANGELS @ CUBS | 12:20PM | BS West
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223487
-#EXTINF:-1 tvg-id="" tvg-name="METS @ PIRATES | 4:40PM | SNY" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",METS @ PIRATES | 4:40PM | SNY
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223488
-#EXTINF:-1 tvg-id="" tvg-name="METS @ PIRATES | 4:40PM | ATT Pittsburgh" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",METS @ PIRATES | 4:40PM | ATT Pittsburgh
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223489
-#EXTINF:-1 tvg-id="" tvg-name="CARDINALS @ NATIONALS | 4:45PM | MASN" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",CARDINALS @ NATIONALS | 4:45PM | MASN
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223490
-#EXTINF:-1 tvg-id="" tvg-name="CARDINALS @ NATIONALS | 4:45PM | MLB TV" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",CARDINALS @ NATIONALS | 4:45PM | MLB TV
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223491
-#EXTINF:-1 tvg-id="" tvg-name="RED SOX @ YANKEES | 5:05PM | YES" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",RED SOX @ YANKEES | 5:05PM | YES
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223492
-#EXTINF:-1 tvg-id="" tvg-name="RED SOX @ YANKEES | 5:05PM | NESN" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",RED SOX @ YANKEES | 5:05PM | NESN
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223493
-#EXTINF:-1 tvg-id="" tvg-name="GIANTS @ GUARDIANS | 5:10PM | NBCS Bay Area" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",GIANTS @ GUARDIANS | 5:10PM | NBCS Bay Area
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223494
-#EXTINF:-1 tvg-id="" tvg-name="GIANTS @ GUARDIANS | 5:10PM | MLB TV" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",GIANTS @ GUARDIANS | 5:10PM | MLB TV
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223495
-#EXTINF:-1 tvg-id="" tvg-name="WHITE SOX @ MARLINS | 5:10PM | NBCS Chicago" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",WHITE SOX @ MARLINS | 5:10PM | NBCS Chicago
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223496
-#EXTINF:-1 tvg-id="" tvg-name="WHITE SOX @ MARLINS | 5:10PM | BS Florida" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",WHITE SOX @ MARLINS | 5:10PM | BS Florida
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223497
-#EXTINF:-1 tvg-id="" tvg-name="RAYS @ RANGERS | 6:05PM | BS Sun" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",RAYS @ RANGERS | 6:05PM | BS Sun
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223498
-#EXTINF:-1 tvg-id="" tvg-name="RAYS @ RANGERS | 6:05PM | BS South West" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",RAYS @ RANGERS | 6:05PM | BS South West
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223499
-#EXTINF:-1 tvg-id="" tvg-name="ROYALS @ ROCKIES | 6:10PM | BS Kansas City" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",ROYALS @ ROCKIES | 6:10PM | BS Kansas City
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223500
-#EXTINF:-1 tvg-id="" tvg-name="ROYALS @ ROCKIES | 6:10PM | MLB TV" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",ROYALS @ ROCKIES | 6:10PM | MLB TV
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223501
-#EXTINF:-1 tvg-id="" tvg-name="ASTROS @ TWINS | 6:10PM | ATT" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",ASTROS @ TWINS | 6:10PM | ATT
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223502
-#EXTINF:-1 tvg-id="" tvg-name="ASTROS @ TWINS | 6:10PM | BS North" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",ASTROS @ TWINS | 6:10PM | BS North
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223503
-#EXTINF:-1 tvg-id="" tvg-name="ORIOLES @ ATHLETICS | 7:40PM | NBCS California" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",ORIOLES @ ATHLETICS | 7:40PM | NBCS California
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223504
-#EXTINF:-1 tvg-id="" tvg-name="ORIOLES @ ATHLETICS | 7:40PM | MASN 2" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",ORIOLES @ ATHLETICS | 7:40PM | MASN 2
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223505
-#EXTINF:-1 tvg-id="" tvg-name="D|BACKS @ PADRES | 7:40PM | MLB TV" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",D|BACKS @ PADRES | 7:40PM | MLB TV
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223506
-#EXTINF:-1 tvg-id="" tvg-name="BLUE JAYS @ MARINERS | 7:40PM | SN Ontario" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",BLUE JAYS @ MARINERS | 7:40PM | SN Ontario
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223507
-#EXTINF:-1 tvg-id="" tvg-name="BLUE JAYS @ MARINERS | 7:40PM | Root Sports NW" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",BLUE JAYS @ MARINERS | 7:40PM | Root Sports NW
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223508
-#EXTINF:-1 tvg-id="" tvg-name="BREWERS @ DODGERS | 8:10PM en Espanol | Fox Sports 2" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",BREWERS @ DODGERS | 8:10PM en Espanol | Fox Sports 2
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223509
-#EXTINF:-1 tvg-id="" tvg-name="BREWERS @ DODGERS | 8:10PM | BS Wisconsin" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",BREWERS @ DODGERS | 8:10PM | BS Wisconsin
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223510
-#EXTINF:-1 tvg-id="" tvg-name="WNBA | 06/Jul 18:00 | Minnesota Lynx W Vs. Washington Mystics W | Monumental Sports Network" tvg-logo="http://panel.maxmax.live/png/sports/wnba.png" group-title="TV | EVENTOS",WNBA | 06/Jul 18:00 | Minnesota Lynx W Vs. Washington Mystics W | Monumental Sports Network
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223511
-#EXTINF:-1 tvg-id="" tvg-name="WNBA | 06/Jul 18:00 | Minnesota Lynx W Vs. Washington Mystics W | Bally Sports North" tvg-logo="http://panel.maxmax.live/png/sports/wnba.png" group-title="TV | EVENTOS",WNBA | 06/Jul 18:00 | Minnesota Lynx W Vs. Washington Mystics W | Bally Sports North
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223512
-#EXTINF:-1 tvg-id="" tvg-name="Canadian Premier League | 06/Jul 14:00 | York9 Vs. HFX Wanderers | FOX Soccer Plus" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="TV | EVENTOS",Canadian Premier League | 06/Jul 14:00 | York9 Vs. HFX Wanderers | FOX Soccer Plus
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223513
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 06/Jul 19:00 | San Antonio Vs. Phoenix Rising | Bally Sports Southwest" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 06/Jul 19:00 | San Antonio Vs. Phoenix Rising | Bally Sports Southwest
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223514
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 06/Jul 19:00 | San Antonio Vs. Phoenix Rising | Bally Sports New Orleans" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 06/Jul 19:00 | San Antonio Vs. Phoenix Rising | Bally Sports New Orleans
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223515
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 06/Jul 19:00 | San Antonio Vs. Phoenix Rising | Bally Sports Oklahoma" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 06/Jul 19:00 | San Antonio Vs. Phoenix Rising | Bally Sports Oklahoma
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223516
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 06/Jul 19:00 | San Antonio Vs. Phoenix Rising | Bally Sports Southwest SA" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 06/Jul 19:00 | San Antonio Vs. Phoenix Rising | Bally Sports Southwest SA
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223517
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 06/Jul 19:00 | San Antonio Vs. Phoenix Rising | Bally Sports Southwest Extra" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 06/Jul 19:00 | San Antonio Vs. Phoenix Rising | Bally Sports Southwest Extra
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223518
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 06/Jul 20:00 | Orange County SC Vs. Memphis 901 | Bally Sports SoCal" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 06/Jul 20:00 | Orange County SC Vs. Memphis 901 | Bally Sports SoCal
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223519
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 06/Jul 20:00 | Orange County SC Vs. Memphis 901 | Bally Sports San Diego" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 06/Jul 20:00 | Orange County SC Vs. Memphis 901 | Bally Sports San Diego
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223520
-#EXTINF:-1 tvg-id="" tvg-name="NWSL | 06/Jul 11:00 | Chicago Red Stars W Vs. Houston Dash W | ESPN" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="TV | EVENTOS",NWSL | 06/Jul 11:00 | Chicago Red Stars W Vs. Houston Dash W | ESPN
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223521
-#EXTINF:-1 tvg-id="" tvg-name="NWSL | 06/Jul 11:00 | Chicago Red Stars W Vs. Houston Dash W | ESPN Deportes" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="TV | EVENTOS",NWSL | 06/Jul 11:00 | Chicago Red Stars W Vs. Houston Dash W | ESPN Deportes
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223522
-#EXTINF:-1 tvg-id="" tvg-name="NWSL | 06/Jul 20:00 | Bay Vs. Washington Spirit W | NBC Sports Bay Area" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="TV | EVENTOS",NWSL | 06/Jul 20:00 | Bay Vs. Washington Spirit W | NBC Sports Bay Area
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223523
-#EXTINF:-1 tvg-id="" tvg-name="UEFA Euro 2024 | 06/Jul 13:00 | Netherlands Vs. Türkiye | TSN4" tvg-logo="http://panel.maxmax.live/png/sports/euro2024.png" group-title="TV| PPV  Eurocopa 2024",UEFA Euro 2024 | 06/Jul 13:00 | Netherlands Vs. Türkiye | TSN4
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223524
-#EXTINF:-1 tvg-id="" tvg-name="UEFA Euro 2024 | 06/Jul 10:00 | England Vs. Switzerland | TSN3" tvg-logo="http://panel.maxmax.live/png/sports/euro2024.png" group-title="TV| PPV  Eurocopa 2024",UEFA Euro 2024 | 06/Jul 10:00 | England Vs. Switzerland | TSN3
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223525
-#EXTINF:-1 tvg-id="" tvg-name="UEFA Euro 2024 | 06/Jul 10:00 | England Vs. Switzerland | TSN4" tvg-logo="http://panel.maxmax.live/png/sports/euro2024.png" group-title="TV| PPV  Eurocopa 2024",UEFA Euro 2024 | 06/Jul 10:00 | England Vs. Switzerland | TSN4
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223526
-#EXTINF:-1 tvg-id="" tvg-name="Liga MX | 06/Jul 19:00 | Tigres UANL Vs. Necaxa | FOX Deportes" tvg-logo="http://panel.maxmax.live/png/sports/ligamx.png" group-title="TV | PPV LIGA MX",Liga MX | 06/Jul 19:00 | Tigres UANL Vs. Necaxa | FOX Deportes
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223527
-#EXTINF:-1 tvg-id="" tvg-name="Liga MX | 06/Jul 19:00 | Guadalajara Vs. Toluca | Telemundo" tvg-logo="http://panel.maxmax.live/png/sports/ligamx.png" group-title="TV | PPV LIGA MX",Liga MX | 06/Jul 19:00 | Guadalajara Vs. Toluca | Telemundo
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223528
-#EXTINF:-1 tvg-id="" tvg-name="Liga MX | 06/Jul 19:00 | Guadalajara Vs. Toluca | NBC Universo" tvg-logo="http://panel.maxmax.live/png/sports/ligamx.png" group-title="TV | PPV LIGA MX",Liga MX | 06/Jul 19:00 | Guadalajara Vs. Toluca | NBC Universo
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223529
-#EXTINF:-1 tvg-id="" tvg-name="Wimbledon | 06/Jul 04:00 | Wimbledon | ESPN Deportes" tvg-logo="http://panel.maxmax.live/png/sports/wimbledon.png" group-title="TV | PPV Tenis",Wimbledon | 06/Jul 04:00 | Wimbledon | ESPN Deportes
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223530
-#EXTINF:-1 tvg-id="" tvg-name="Wimbledon | 06/Jul 04:00 | Wimbledon | TSN1" tvg-logo="http://panel.maxmax.live/png/sports/wimbledon.png" group-title="TV | PPV Tenis",Wimbledon | 06/Jul 04:00 | Wimbledon | TSN1
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223531
-#EXTINF:-1 tvg-id="" tvg-name="DP World Tour | 06/Jul 05:30 | BMW International Open | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="TV | EVENTOS",DP World Tour | 06/Jul 05:30 | BMW International Open | Golf Channel USA
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223532
-#EXTINF:-1 tvg-id="" tvg-name="Wimbledon | 06/Jul 05:00 | Wimbledon | ESPN" tvg-logo="http://panel.maxmax.live/png/sports/wimbledon.png" group-title="TV | PPV Tenis",Wimbledon | 06/Jul 05:00 | Wimbledon | ESPN
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223533
-#EXTINF:-1 tvg-id="" tvg-name="Wimbledon | 06/Jul 05:00 | Wimbledon | TSN2" tvg-logo="http://panel.maxmax.live/png/sports/wimbledon.png" group-title="TV | PPV Tenis",Wimbledon | 06/Jul 05:00 | Wimbledon | TSN2
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223534
-#EXTINF:-1 tvg-id="" tvg-name="Wimbledon | 06/Jul 11:00 | Wimbledon | TSN2" tvg-logo="http://panel.maxmax.live/png/sports/wimbledon.png" group-title="TV | PPV Tenis",Wimbledon | 06/Jul 11:00 | Wimbledon | TSN2
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223535
-#EXTINF:-1 tvg-id="" tvg-name="PGA Tour | 06/Jul 11:00 | John Deere Classic | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/pgatour.png" group-title="TV | EVENTOS",PGA Tour | 06/Jul 11:00 | John Deere Classic | Golf Channel USA
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223536
-#EXTINF:-1 tvg-id="" tvg-name="PGA Tour | 06/Jul 13:00 | John Deere Classic | TSN3" tvg-logo="http://panel.maxmax.live/png/sports/pgatour.png" group-title="TV | EVENTOS",PGA Tour | 06/Jul 13:00 | John Deere Classic | TSN3
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223537
-#EXTINF:-1 tvg-id="" tvg-name="Primera División | 06/Jul 09:30 | Boston River Vs. Cerro | GolTV Espanol" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="TV | EVENTOS",Primera División | 06/Jul 09:30 | Boston River Vs. Cerro | GolTV Espanol
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223538
-#EXTINF:-1 tvg-id="" tvg-name="Primera División | 06/Jul 12:30 | Peñarol Vs. Deportivo Maldonado | GolTV Espanol" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="TV | EVENTOS",Primera División | 06/Jul 12:30 | Peñarol Vs. Deportivo Maldonado | GolTV Espanol
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223539
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 06/Jul 14:30 | Sacramento Kings Vs. Los Angeles Lakers | NBC Sports California" tvg-logo="http://panel.maxmax.live/png/sports/nba.png" group-title="TV | PPV NBA",NBA | 06/Jul 14:30 | Sacramento Kings Vs. Los Angeles Lakers | NBC Sports California
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223540
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 06/Jul 14:30 | Sacramento Kings Vs. Los Angeles Lakers | ESPN" tvg-logo="http://panel.maxmax.live/png/sports/nba.png" group-title="TV | PPV NBA",NBA | 06/Jul 14:30 | Sacramento Kings Vs. Los Angeles Lakers | ESPN
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223541
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 06/Jul 14:30 | Sacramento Kings Vs. Los Angeles Lakers | ESPN Deportes" tvg-logo="http://panel.maxmax.live/png/sports/nba.png" group-title="TV | PPV NBA",NBA | 06/Jul 14:30 | Sacramento Kings Vs. Los Angeles Lakers | ESPN Deportes
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223542
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 06/Jul 14:30 | Sacramento Kings Vs. Los Angeles Lakers | Sportsnet 360" tvg-logo="http://panel.maxmax.live/png/sports/nba.png" group-title="TV | PPV NBA",NBA | 06/Jul 14:30 | Sacramento Kings Vs. Los Angeles Lakers | Sportsnet 360
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223543
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 06/Jul 14:30 | Sacramento Kings Vs. Los Angeles Lakers | Spectrum SportsNet" tvg-logo="http://panel.maxmax.live/png/sports/nba.png" group-title="TV | PPV NBA",NBA | 06/Jul 14:30 | Sacramento Kings Vs. Los Angeles Lakers | Spectrum SportsNet
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223544
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 06/Jul 16:30 | Golden State Warriors Vs. Miami Heat | ESPN" tvg-logo="http://panel.maxmax.live/png/sports/nba.png" group-title="TV | PPV NBA",NBA | 06/Jul 16:30 | Golden State Warriors Vs. Miami Heat | ESPN
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223545
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 06/Jul 16:30 | Golden State Warriors Vs. Miami Heat | ESPN Deportes" tvg-logo="http://panel.maxmax.live/png/sports/nba.png" group-title="TV | PPV NBA",NBA | 06/Jul 16:30 | Golden State Warriors Vs. Miami Heat | ESPN Deportes
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223546
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 06/Jul 16:30 | Golden State Warriors Vs. Miami Heat | NBC Sports Bay Area" tvg-logo="http://panel.maxmax.live/png/sports/nba.png" group-title="TV | PPV NBA",NBA | 06/Jul 16:30 | Golden State Warriors Vs. Miami Heat | NBC Sports Bay Area
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223547
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 06/Jul 18:30 | San Antonio Spurs Vs. Charlotte Hornets | NBA TV" tvg-logo="http://panel.maxmax.live/png/sports/nba.png" group-title="TV | PPV NBA",NBA | 06/Jul 18:30 | San Antonio Spurs Vs. Charlotte Hornets | NBA TV
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223548
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 06/Jul 20:30 | Sacramento Kings Vs. China | NBC Sports California" tvg-logo="http://panel.maxmax.live/png/sports/nba.png" group-title="TV | PPV NBA",NBA | 06/Jul 20:30 | Sacramento Kings Vs. China | NBC Sports California
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223549
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 06/Jul 20:30 | Sacramento Kings Vs. China | NBA TV" tvg-logo="http://panel.maxmax.live/png/sports/nba.png" group-title="TV | PPV NBA",NBA | 06/Jul 20:30 | Sacramento Kings Vs. China | NBA TV
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223550
-#EXTINF:-1 tvg-id="" tvg-name="Boxing | 06/Jul 18:30 | Artem Harutyunyan Vs. Shakur Stevenson | ESPN" tvg-logo="http://panel.maxmax.live/png/sports/boxing.png" group-title="TV | PPV UFC | BOX",Boxing | 06/Jul 18:30 | Artem Harutyunyan Vs. Shakur Stevenson | ESPN
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223551
-#EXTINF:-1 tvg-id="" tvg-name="Boxing | 06/Jul 18:30 | Artem Harutyunyan Vs. Shakur Stevenson | ESPN Deportes" tvg-logo="http://panel.maxmax.live/png/sports/boxing.png" group-title="TV | PPV UFC | BOX",Boxing | 06/Jul 18:30 | Artem Harutyunyan Vs. Shakur Stevenson | ESPN Deportes
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223552
-#EXTINF:-1 tvg-id="" tvg-name="Copa America | 06/Jul 16:00 | Colombia Vs. Panama | TSN4" tvg-logo="http://panel.maxmax.live/png/sports/copaamerica.png" group-title="TV| PPV Copa America 2024",Copa America | 06/Jul 16:00 | Colombia Vs. Panama | TSN4
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223553
-#EXTINF:-1 tvg-id="" tvg-name="Copa America | 06/Jul 16:00 | Colombia Vs. Panama | TUDN" tvg-logo="http://panel.maxmax.live/png/sports/copaamerica.png" group-title="TV| PPV Copa America 2024",Copa America | 06/Jul 16:00 | Colombia Vs. Panama | TUDN
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223554
-#EXTINF:-1 tvg-id="" tvg-name="Copa America | 06/Jul 16:00 | Colombia Vs. Panama | FOX Sports 1" tvg-logo="http://panel.maxmax.live/png/sports/copaamerica.png" group-title="TV| PPV Copa America 2024",Copa America | 06/Jul 16:00 | Colombia Vs. Panama | FOX Sports 1
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223555
-#EXTINF:-1 tvg-id="" tvg-name="Copa America | 06/Jul 19:00 | Uruguay Vs. Brazil | TSN4" tvg-logo="http://panel.maxmax.live/png/sports/copaamerica.png" group-title="TV| PPV Copa America 2024",Copa America | 06/Jul 19:00 | Uruguay Vs. Brazil | TSN4
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223556
-#EXTINF:-1 tvg-id="" tvg-name="Copa America | 06/Jul 19:00 | Uruguay Vs. Brazil | TSN5" tvg-logo="http://panel.maxmax.live/png/sports/copaamerica.png" group-title="TV| PPV Copa America 2024",Copa America | 06/Jul 19:00 | Uruguay Vs. Brazil | TSN5
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223557
-#EXTINF:-1 tvg-id="" tvg-name="Copa America | 06/Jul 19:00 | Uruguay Vs. Brazil | TUDN" tvg-logo="http://panel.maxmax.live/png/sports/copaamerica.png" group-title="TV| PPV Copa America 2024",Copa America | 06/Jul 19:00 | Uruguay Vs. Brazil | TUDN
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223558
-#EXTINF:-1 tvg-id="" tvg-name="Copa America | 06/Jul 19:00 | Uruguay Vs. Brazil | FOX Sports 1" tvg-logo="http://panel.maxmax.live/png/sports/copaamerica.png" group-title="TV| PPV Copa America 2024",Copa America | 06/Jul 19:00 | Uruguay Vs. Brazil | FOX Sports 1
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223559
-#EXTINF:-1 tvg-id="" tvg-name="MMA | 06/Jul 16:00 | US Open ISKA World Martial Arts Championships | Fight Network Canada" tvg-logo="http://panel.maxmax.live/png/sports/mma.png" group-title="TV | PPV UFC | BOX",MMA | 06/Jul 16:00 | US Open ISKA World Martial Arts Championships | Fight Network Canada
-https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2223560
+#EXTINF:-1,Liga MX | Azteca 7 | México
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2227023.m3u8
+#EXTINF:-1,Liga MX | Canal 5 | México
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2227024.m3u8
+#EXTINF:-1,Liga MX | Fox Sports | México
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2227025.m3u8
+#EXTINF:-1,Liga MX | TUDN | USA
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2227026.m3u8
+#EXTINF:-1,Liga MX | TUDN MX
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2227794.m3u8
+#EXTINF:-1,La Casa de los Famosos Cam 1
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2227952.m3u8
+#EXTINF:-1,La Casa de los Famosos Cam 2
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2227953.m3u8
+#EXTINF:-1,La Casa de los Famosos Cam 3
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2227954.m3u8
+#EXTINF:-1,La Casa de los Famosos Cam 4
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2227955.m3u8
+#EXTINF:-1,La Casa de los Famosos Cam 5
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2227956.m3u8
+#EXTINF:-1,La Casa de los Famosos Cam 6
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2227957.m3u8
+#EXTINF:-1,La Casa de los Famosos Cam 7
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2227958.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | Claro Sports 1 | México
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2228075.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | Claro Sports 2 | México
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2228076.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | Claro Sports 3 | México
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2228077.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | Claro Sports 4 | México
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2228082.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 |  Nu9ve | México
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2228084.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | U5A | USA
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2228085.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | Azteca 7 | México
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2228305.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | Canal 5 | México
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2228308.m3u8
+#EXTINF:-1,PPV | Leagues Cup | Event 1
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2228506.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | RCN | Colombia
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2228635.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | NBC Universo | USA
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2228636.m3u8
+#EXTINF:-1,PPV | Leagues Cup | Event 2
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2228670.m3u8
+#EXTINF:-1,PPV | Leagues Cup | Event 3
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2228671.m3u8
+#EXTINF:-1,PPV | Leagues Cup | Event 4
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2228672.m3u8
+#EXTINF:-1,PPV | Leagues Cup | Event 5
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2228673.m3u8
+#EXTINF:-1,PPV | Leagues Cup | Event 6
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2228674.m3u8
+#EXTINF:-1,PPV | Leagues Cup | Event 7
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2228675.m3u8
+#EXTINF:-1,La Casa de los Famosos Acceso Total
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2229557.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | 07/Aug | 01:30 | Golf (W)
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230757.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | 07/Aug | 02:05 | High Jump
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230758.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | 07/Aug | 03:05 | Javelin Throw
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230759.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | 07/Aug | 04:30 | Skateboarding
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230760.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | 07/Aug | 05:00 | Golf (W)
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230761.m3u8
+#EXTINF:-1,Tennis | 07/Aug | 09:00 | National Bank Open
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230762.m3u8
+#EXTINF:-1,Little League Baseball | 07/Aug | 09:00 | Missouri vs South Dakota
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230763.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | 07/Aug | 09:30 | Skateboarding
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230764.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | 07/Aug | 10:00 | Beach Volleyball
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230765.m3u8
+#EXTINF:-1,Futbol Amistoso | 07/Aug | 10:30 | Sturm Graz vs PSG | Bein Sports
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230766.m3u8
+#EXTINF:-1,Futbol Amistoso | 07/Aug | 10:30 | Sturm Graz vs PSG | Bein Sports N
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230767.m3u8
+#EXTINF:-1,Little League Baseball | 07/Aug | 11:00 | New Hampshire vs. Massachusetts
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230768.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | 07/Aug | 11:00 | Pole Vault
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230769.m3u8
+#EXTINF:-1,Carrera De Caballos | 07/Aug | 11:00 | Saratoga Live
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230770.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | 07/Aug | 11:00 | Water Polo
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230771.m3u8
+#EXTINF:-1,Futbol Amistoso | 07/Aug | 12:30 | Cádiz vs Real Betis
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230772.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | 07/Aug | 12:35 | Water Polo
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230773.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | 07/Aug | 12:45 | 400m (w)
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230774.m3u8
+#EXTINF:-1,Little League Baseball | 07/Aug | 13:00 | Washington vs. Oregon
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230775.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | 07/Aug | 13:00 | Beach Volleyball
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230776.m3u8
+#EXTINF:-1,Carrera De Caballos | 07/Aug | 13:00 | Saratoga Live
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230777.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | 07/Aug | 13:30 | USA vs Nigeria | Bsketball
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230778.m3u8
+#EXTINF:-1,Juegos Olímpicos de París 2024 | 07/Aug | 13:40 | 3000m Steeplechase
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230779.m3u8
+#EXTINF:-1,Little League Baseball | 07/Aug | 15:00 | New York vs. Connecticut
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230780.m3u8
+#EXTINF:-1,Athletes Unlimited Softball | 07/Aug | 15:00 | Team McQuillin vs. Team Kilfoyl
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230781.m3u8
+#EXTINF:-1,Hockey | 07/Aug | 15:30 | Germany U18 vs USA U18
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230782.m3u8
+#EXTINF:-1,Copa Centroamericana CONCACAF 2024 | 07/Aug | 16:00 | Diriangén vs Herediano | FSP
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230783.m3u8
+#EXTINF:-1,Copa Centroamericana CONCACAF 2024 | 07/Aug | 16:00 | Diriangén vs Herediano | Fox Premium
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230784.m3u8
+#EXTINF:-1,USL Championship Soccer | 07/Aug | 17:00 | Detroit City vs Pittsburgh Riverhounds
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230785.m3u8
+#EXTINF:-1,Tennis | 07/Aug | 17:00 | National Bank Open
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230786.m3u8
+#EXTINF:-1,Athletes Unlimited Softball | 07/Aug | 17:30 | Team Lorenz vs. Team Palacios
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230787.m3u8
+#EXTINF:-1,Copa Centroamericana CONCACAF 2024 | 07/Aug | 18:00 | Firpo vs Alajuelense | Fox Sports 3
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230788.m3u8
+#EXTINF:-1,Copa Centroamericana CONCACAF 2024 | 07/Aug | 18:00 | Firpo vs Alajuelense | FSP
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230789.m3u8
+#EXTINF:-1,Liga BetPlay DIMAYOR | 07/Aug | 18:00 | Atlético Bucaramanga vs Santa Fe
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230790.m3u8
+#EXTINF:-1,Little League Baseball | 07/Aug | 19:00 | TBA vs. Arizona
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230791.m3u8
+#EXTINF:-1,Cornhole | 07/Aug | 19:00 | Cornhole
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230792.m3u8
+#EXTINF:-1,Hockey | 07/Aug | 19:30 | Canada u18 vs Sweden u18
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230793.m3u8
+#EXTINF:-1,Copa Centroamericana CONCACAF 2024 | 07/Aug | 20:00 | 	Comunicaciones vs Alianza | Fox Sports 3
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230794.m3u8
+#EXTINF:-1,Copa Centroamericana CONCACAF 2024 | 07/Aug | 20:00 | 	Comunicaciones vs Alianza | FSP
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230795.m3u8
+#EXTINF:-1,La Casa de los Famosos 2
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230796.m3u8
+#EXTINF:-1,La Casa de los Famosos 3
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230797.m3u8
+#EXTINF:-1,La Casa de los Famosos 4
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230798.m3u8
+#EXTINF:-1,La Casa de los Famosos 5
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230799.m3u8
+#EXTINF:-1,La Casa de los Famosos 6
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230800.m3u8
+#EXTINF:-1,Resumen | 10:00PM a 11:30PM | Canal 5
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230801.m3u8
+#EXTINF:-1,La Academia  | 24x7 | Purple Stream 7
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230802.m3u8
+#EXTINF:-1,La Academia Camino a la Fama | 4:30PM | Azteca 7
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230803.m3u8
+#EXTINF:-1,Olimpicos de 4AM a 12PM | La Isla 5PM | El Conde 8PM
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230804.m3u8
+#EXTINF:-1,Olimpicos 24x7
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230805.m3u8
+#EXTINF:-1,OLYMPICS 24X7
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230806.m3u8
+#EXTINF:-1,OLYMPICS 24X7
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230807.m3u8
+#EXTINF:-1,OLYMPICS 24X7
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230808.m3u8
+#EXTINF:-1,OLYMPICS 24X7
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230809.m3u8
+#EXTINF:-1,OLYMPICS 24X7
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230810.m3u8
+#EXTINF:-1,OLYMPICS 24X7
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230811.m3u8
+#EXTINF:-1,Leagues Cup | Pumas vs Whitecaps | 8:30PM | TUDN US
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230812.m3u8
+#EXTINF:-1,Leagues Cup | LAFC vs Austin | 8:30PM | Apple TV | Purple Stream 2
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230813.m3u8
+#EXTINF:-1,Leones Yucatan en Guerreros Oaxaca | 7:00PM | SIPSE Merida
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230814.m3u8
+#EXTINF:-1,Sultanes Monterrey en Rieleros Aguascalientes | 7:30PM | Purple Stream 9
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230815.m3u8
+#EXTINF:-1,Tecolotes Laredos en Acereros Monclova | 8:00PM | WWB
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230816.m3u8
+#EXTINF:-1,Algodoneros Laguna en Toros Tijuana | 8:35PM| Latin America Sport
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230817.m3u8
+#EXTINF:-1,Algodoneros Laguna en Toros Tijuana | 8:35PM | Multimedios
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230818.m3u8
+#EXTINF:-1,ITV Sports MX
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230819.m3u8
+#EXTINF:-1,D|BACKS @ GUARDIANS | 4:40PM | BS Great Lakes
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230820.m3u8
+#EXTINF:-1,PADRES @ PIRATES | 4:40PM | ATT Pittsburgh
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230821.m3u8
+#EXTINF:-1,REDS @ MARLINS | 4:40PM | BS Florida
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230822.m3u8
+#EXTINF:-1,REDS @ MARLINS | 4:40PM | BS Ohio
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230823.m3u8
+#EXTINF:-1,GIANTS @ NATIONALS | 4:45PM | MASN
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230824.m3u8
+#EXTINF:-1,GIANTS @ NATIONALS | 4:45PM | NBCS Bay Area
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230825.m3u8
+#EXTINF:-1,POSPUESTO |ANGELS @ YANKEES | 5:05PM | YES
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230826.m3u8
+#EXTINF:-1,POSPUESTO | ANGELS @ YANKEES | 5:05PM | BS West
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230827.m3u8
+#EXTINF:-1,ORIOLES @ BLUE JAYS | 5:07PM | MASN 2
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230828.m3u8
+#EXTINF:-1,ORIOLES @ BLUE JAYS | 5:07PM | SN Ontario
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230829.m3u8
+#EXTINF:-1,BREWERS @ BRAVES | 5:20PM | BS Wisconsin
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230830.m3u8
+#EXTINF:-1,RAYS @ CARDINALS | 5:45PM | BS Mid West
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230831.m3u8
+#EXTINF:-1,ASTROS @ RANGERS | 6:05PM | ATT
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230832.m3u8
+#EXTINF:-1,ASTROS @ RANGERS | 6:05PM | BS South West
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230833.m3u8
+#EXTINF:-1,TWINS @ CUBS | 6:05PM | BS North
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230834.m3u8
+#EXTINF:-1,TWINS @ CUBS | 6:05PM | Marquee Sports
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230835.m3u8
+#EXTINF:-1,RED SOX @ ROYALS | 6:10PM | NESN
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230836.m3u8
+#EXTINF:-1,RED SOX @ ROYALS | 6:10PM | BS KC
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230837.m3u8
+#EXTINF:-1,METS @ ROCKIES | 6:40PM | SNY
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230838.m3u8
+#EXTINF:-1,TIGERS @ MARINERS | 7:40PM | BS Detroit
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230839.m3u8
+#EXTINF:-1,TIGERS @ MARINERS | 7:40PM | Root Sports NW
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230840.m3u8
+#EXTINF:-1,WHITE SOX @ ATHLETICS | 7:40PM | NBCS Chicago
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230841.m3u8
+#EXTINF:-1,WHITE SOX @ ATHLETICS | 7:40PM | NBCS California
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230842.m3u8
+#EXTINF:-1,PHILLIES @ DODGERS | 8:10PM en Espanol | ESPN 2
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230843.m3u8
+#EXTINF:-1,PHILLIES @ DODGERS | 8:10PM | Sportsnet LA
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230844.m3u8
+#EXTINF:-1,PHILLIES @ DODGERS | 8:10PM | NBCS Philadelphia
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230845.m3u8
+#EXTINF:-1,USL Championship | 07/Aug 17:00 | Detroit City Vs. Pittsburgh Riverhounds | CBS Sports Network
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230846.m3u8
+#EXTINF:-1,MLB | 07/Aug 11:15 | Cleveland Guardians Vs. Arizona Diamondbacks | Bally Sports Great Lakes
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230847.m3u8
+#EXTINF:-1,MLB | 07/Aug 17:00 | New York Yankees Vs. Los Angeles Angels | Bally Sports West
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230848.m3u8
+#EXTINF:-1,MLB | 07/Aug 11:10 | Cleveland Guardians Vs. Arizona Diamondbacks | Bally Sports Great Lakes
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230849.m3u8
+#EXTINF:-1,MLB | 07/Aug 12:20 | Chicago Cubs Vs. Minnesota Twins | Bally Sports North
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230850.m3u8
+#EXTINF:-1,MLB | 07/Aug 12:20 | Chicago Cubs Vs. Minnesota Twins | Marquee Sports Network
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230851.m3u8
+#EXTINF:-1,MLB | 07/Aug 12:20 | Chicago Cubs Vs. Minnesota Twins | MLB Network
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230852.m3u8
+#EXTINF:-1,MLB | 07/Aug 12:20 | Chicago Cubs Vs. Minnesota Twins | Bally Sports Midwest Extra Iowa
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230853.m3u8
+#EXTINF:-1,MLB | 07/Aug 12:35 | Texas Rangers Vs. Houston Astros | Bally Sports Southwest
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230854.m3u8
+#EXTINF:-1,MLB | 07/Aug 12:35 | Texas Rangers Vs. Houston Astros | Bally Sports New Orleans
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230855.m3u8
+#EXTINF:-1,MLB | 07/Aug 12:35 | Texas Rangers Vs. Houston Astros | Bally Sports Oklahoma
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230856.m3u8
+#EXTINF:-1,MLB | 07/Aug 12:35 | Texas Rangers Vs. Houston Astros | MLB Network
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230857.m3u8
+#EXTINF:-1,MLB | 07/Aug 12:35 | Texas Rangers Vs. Houston Astros | Bally Sports Southwest SA
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230858.m3u8
+#EXTINF:-1,MLB | 07/Aug 12:35 | Texas Rangers Vs. Houston Astros | Bally Sports Southwest Extra
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230859.m3u8
+#EXTINF:-1,MLB | 07/Aug 13:37 | Oakland Athletics Vs. Chicago White Sox | NBC Sports California
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230860.m3u8
+#EXTINF:-1,MLB | 07/Aug 13:37 | Oakland Athletics Vs. Chicago White Sox | NBC Sports Chicago
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230861.m3u8
+#EXTINF:-1,MLB | 07/Aug 16:40 | Pittsburgh Pirates Vs. San Diego Padres | SportsNet Pittsburgh
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230862.m3u8
+#EXTINF:-1,MLB | 07/Aug 16:40 | Pittsburgh Pirates Vs. San Diego Padres | FOX Deportes
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230863.m3u8
+#EXTINF:-1,MLB | 07/Aug 16:40 | Pittsburgh Pirates Vs. San Diego Padres | FOX Sports 1
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230864.m3u8
+#EXTINF:-1,MLB | 07/Aug 16:40 | Miami Marlins Vs. Cincinnati Reds | Bally Sports Florida
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230865.m3u8
+#EXTINF:-1,MLB | 07/Aug 16:40 | Miami Marlins Vs. Cincinnati Reds | Bally Sports Ohio
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230866.m3u8
+#EXTINF:-1,MLB | 07/Aug 16:40 | Miami Marlins Vs. Cincinnati Reds | Bally Sports Indiana
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230867.m3u8
+#EXTINF:-1,MLB | 07/Aug 16:40 | Miami Marlins Vs. Cincinnati Reds | Bally Sports Southeast NC
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230868.m3u8
+#EXTINF:-1,MLB | 07/Aug 16:40 | Miami Marlins Vs. Cincinnati Reds | Bally Sports Southeast Tennessee
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230869.m3u8
+#EXTINF:-1,MLB | 07/Aug 16:40 | Miami Marlins Vs. Cincinnati Reds | Bally Sports Ohio Cincinnati
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230870.m3u8
+#EXTINF:-1,MLB | 07/Aug 16:45 | Washington Nationals Vs. San Francisco Giants | MASN
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230871.m3u8
+#EXTINF:-1,MLB | 07/Aug 16:45 | Washington Nationals Vs. San Francisco Giants | NBC Sports Bay Area
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230872.m3u8
+#EXTINF:-1,MLB | 07/Aug 14:05 | New York Yankees Vs. Los Angeles Angels | Bally Sports West
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230873.m3u8
+#EXTINF:-1,MLB | 07/Aug 14:05 | New York Yankees Vs. Los Angeles Angels | YES
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230874.m3u8
+#EXTINF:-1,MLB | 07/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | MASN 2
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230875.m3u8
+#EXTINF:-1,MLB | 07/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet One
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230876.m3u8
+#EXTINF:-1,MLB | 07/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230877.m3u8
+#EXTINF:-1,MLB | 07/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet Pacific
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230878.m3u8
+#EXTINF:-1,MLB | 07/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet Ontario
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230879.m3u8
+#EXTINF:-1,MLB | 07/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet East
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230880.m3u8
+#EXTINF:-1,MLB | 07/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet West
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230881.m3u8
+#EXTINF:-1,MLB | 07/Aug 17:20 | Atlanta Braves Vs. Milwaukee Brewers | Bally Sports Wisconsin
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230882.m3u8
+#EXTINF:-1,MLB | 07/Aug 17:20 | Atlanta Braves Vs. Milwaukee Brewers | Bally Sports South
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230883.m3u8
+#EXTINF:-1,MLB | 07/Aug 17:20 | Atlanta Braves Vs. Milwaukee Brewers | Bally Sports South TN Nashville
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230884.m3u8
+#EXTINF:-1,MLB | 07/Aug 17:45 | St. Louis Cardinals Vs. Tampa Bay Rays | Bally Sports Midwest
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230885.m3u8
+#EXTINF:-1,MLB | 07/Aug 17:45 | St. Louis Cardinals Vs. Tampa Bay Rays | Bally Sports Sun
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230886.m3u8
+#EXTINF:-1,MLB | 07/Aug 17:45 | St. Louis Cardinals Vs. Tampa Bay Rays | Bally Sports Indiana
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230887.m3u8
+#EXTINF:-1,MLB | 07/Aug 17:45 | St. Louis Cardinals Vs. Tampa Bay Rays | Bally Sports Oklahoma
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230888.m3u8
+#EXTINF:-1,MLB | 07/Aug 17:45 | St. Louis Cardinals Vs. Tampa Bay Rays | Bally Sports Midwest St. Louis
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230889.m3u8
+#EXTINF:-1,MLB | 07/Aug 17:45 | St. Louis Cardinals Vs. Tampa Bay Rays | Bally Sports Southeast Tennessee
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230890.m3u8
+#EXTINF:-1,MLB | 07/Aug 18:10 | Kansas City Royals Vs. Boston Red Sox | NESN
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230891.m3u8
+#EXTINF:-1,MLB | 07/Aug 18:10 | Kansas City Royals Vs. Boston Red Sox | Bally Sports Kansas City
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230892.m3u8
+#EXTINF:-1,MLB | 07/Aug 18:10 | Kansas City Royals Vs. Boston Red Sox | Bally Sports Midwest Kansas City
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230893.m3u8
+#EXTINF:-1,MLB | 07/Aug 18:10 | Kansas City Royals Vs. Boston Red Sox | Bally Sports Midwest Extra Missouri
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230894.m3u8
+#EXTINF:-1,MLB | 07/Aug 18:40 | Colorado Rockies Vs. New York Mets | SNY
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230895.m3u8
+#EXTINF:-1,MLB | 07/Aug 19:40 | Seattle Mariners Vs. Detroit Tigers | Bally Sports Detroit
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230896.m3u8
+#EXTINF:-1,MLB | 07/Aug 19:40 | Seattle Mariners Vs. Detroit Tigers | ROOT SPORTS
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230897.m3u8
+#EXTINF:-1,MLB | 07/Aug 19:40 | Seattle Mariners Vs. Detroit Tigers | MLB Network
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230898.m3u8
+#EXTINF:-1,MLB | 07/Aug 19:40 | Seattle Mariners Vs. Detroit Tigers | ROOT SPORTS PLUS
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230899.m3u8
+#EXTINF:-1,MLB | 07/Aug 20:10 | Los Angeles Dodgers Vs. Philadelphia Phillies | NBC Sports Philadelphia
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230900.m3u8
+#EXTINF:-1,MLB | 07/Aug 20:10 | Los Angeles Dodgers Vs. Philadelphia Phillies | Spectrum SportsNet LA
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230901.m3u8
+#EXTINF:-1,MLB | 07/Aug 20:10 | Los Angeles Dodgers Vs. Philadelphia Phillies | TSN2
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230902.m3u8
+#EXTINF:-1,MLB | 07/Aug 20:10 | Los Angeles Dodgers Vs. Philadelphia Phillies | MLB Network
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230903.m3u8
+#EXTINF:-1,Olympic Golf | 07/Aug 01:00 | Golf (W) | Golf Channel USA
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230904.m3u8
+#EXTINF:-1,Olympic Golf | 07/Aug 05:00 | Golf (W) | Golf Channel USA
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230905.m3u8
+#EXTINF:-1,ATP | 07/Aug 09:00 | National Bank Open | Tennis Channel
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230906.m3u8
+#EXTINF:-1,Mixed Coverage | 07/Aug 11:00 | National Bank Open | Bally Sports West
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230907.m3u8
+#EXTINF:-1,Mixed Coverage | 07/Aug 11:00 | National Bank Open | Bally Sports Midwest
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230908.m3u8
+#EXTINF:-1,Mixed Coverage | 07/Aug 11:00 | National Bank Open | Bally Sports Florida
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230909.m3u8
+#EXTINF:-1,Mixed Coverage | 07/Aug 11:00 | National Bank Open | MSGSN
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230910.m3u8
+#EXTINF:-1,Mixed Coverage | 07/Aug 11:00 | National Bank Open | Bally Sports Indiana
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230911.m3u8
+#EXTINF:-1,Mixed Coverage | 07/Aug 11:00 | National Bank Open | Bally Sports Detroit Extra
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230912.m3u8
+#EXTINF:-1,Mixed Coverage | 07/Aug 11:00 | National Bank Open | Bally Sports Midwest St. Louis
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230913.m3u8
+#EXTINF:-1,Mixed Coverage | 07/Aug 11:00 | National Bank Open | Bally Sports Midwest Kansas City
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230914.m3u8
+#EXTINF:-1,Mixed Coverage | 07/Aug 11:00 | National Bank Open | Bally Sports Ohio Cincinnati
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230915.m3u8
+#EXTINF:-1,Mixed Coverage | 07/Aug 13:00 | National Bank Open | Bally Sports Southwest Extra Dallas
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230916.m3u8
+#EXTINF:-1,Mixed Coverage | 07/Aug 13:00 | National Bank Open | Bally Sports Southwest Houston
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230917.m3u8
+#EXTINF:-1,Mixed Coverage | 07/Aug 17:00 | National Bank Open | Tennis Channel
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230918.m3u8
+#EXTINF:-1,ATP | 07/Aug 10:30 | National Bank Open | Sportsnet One
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230919.m3u8
+#EXTINF:-1,WTA | 07/Aug 10:30 | National Bank Open | Sportsnet 360
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230920.m3u8
+#EXTINF:-1,WTA | 07/Aug 17:00 | National Bank Open | Sportsnet 360
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230921.m3u8
+#EXTINF:-1,ATP | 07/Aug 17:00 | National Bank Open | Sportsnet One
+https://sdmx.vip:443/Eventos-Cplay/dBYYWawzQ7/2230922.m3u8
