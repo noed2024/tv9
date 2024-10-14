@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phouc6q1IZTxUlClr7CNnxaF9Xw.jpg" group-title="All Series",Fargo S03 E01
+http://fortv.cc:8080/series/wE0gJa/906985/212238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NqbChQ7sSXQvo0WKHS7bHKwv2o.jpg" group-title="All Series",Fargo S03 E02
+http://fortv.cc:8080/series/wE0gJa/906985/212239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q38okovZVSEsabPddeH2dFplpJE.jpg" group-title="All Series",Fargo S03 E03
+http://fortv.cc:8080/series/wE0gJa/906985/212240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mckpwFFSIHqL9kD1pUYBdci7W9k.jpg" group-title="All Series",Fargo S03 E04
+http://fortv.cc:8080/series/wE0gJa/906985/212241.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KGKMJXfIlwkVjBV3TBrPkRuuqy.jpg" group-title="All Series",Fargo S03 E05
+http://fortv.cc:8080/series/wE0gJa/906985/212242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZfK6DrqbZ4B98zBEGbY4M0C0lK.jpg" group-title="All Series",Fargo S03 E06
+http://fortv.cc:8080/series/wE0gJa/906985/212243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaf1iDx4AW0CDx9RnjD8E6mvw71.jpg" group-title="All Series",Fargo S03 E07
+http://fortv.cc:8080/series/wE0gJa/906985/212244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmXD9mAHJpX8NQK6u446FLjrOp8.jpg" group-title="All Series",Fargo S03 E08
+http://fortv.cc:8080/series/wE0gJa/906985/212245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMIja7QyZQVzy6AtdSz1EEiWf5F.jpg" group-title="All Series",Fargo S03 E09
+http://fortv.cc:8080/series/wE0gJa/906985/212246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLGpSW9RfbWEOvXCN8W61LiKC2h.jpg" group-title="All Series",Fargo S03 E10
+http://fortv.cc:8080/series/wE0gJa/906985/212247.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fargo S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5GAKBnvFOYs1kpPm12GX67dlmN.jpg" group-title="All Series",Fargo S02 E01
 http://fortv.cc:8080/series/wE0gJa/906985/212228.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fargo S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMBUPjvbMGpmLkFyQOCLztIcrke.jpg" group-title="All Series",Fargo S02 E02
